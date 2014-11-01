@@ -2,8 +2,8 @@ Bitbucket
 ^^^^^^^^^
 Bitbucket works similar to Twitter (OAuth).
 
-- Register a new application by emailing ``support@bitbucket.org`` with an
-  application name and a bit of a description,
+- Create an OAuth consumer key and secret on your account settings page
+  under OAuth. Bitbucket provides detailed documentation: https://confluence.atlassian.com/display/BITBUCKET/OAuth+on+Bitbucket#OAuthonBitbucket-Step1.CreateanOAuthkeyandsecret
 
 - Fill ``Consumer Key`` and ``Consumer Secret`` values in the settings::
 
